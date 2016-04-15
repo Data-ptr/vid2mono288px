@@ -14,7 +14,7 @@
 
 ## CREDITS:
 
-* [288](http://inthecolorfield.com/prop/288/)
+* [288](http://inthecolorfield.com/288/)
 
 * [Slow Motion Flame](https://archive.org/details/SlowMotionFlame)
 * [ffmpeg](https://www.ffmpeg.org/)
